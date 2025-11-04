@@ -1,11 +1,11 @@
 {
-  "name": "hw-5",
+  "name": "bibliotek-cl",
   "version": "1.0.0",
   "description": "",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "dev": "npx parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /hw-5",
+    "build": "parcel build src/index.html --public-url /bibliotek-cl/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
